@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045119272133",
+    "project_id": "fabnote-8ba15",
+    "storage_bucket": "fabnote-8ba15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045119272133:android:52756a64c78f45188bdcac",
+        "android_client_info": {
+          "package_name": "com.foryou.fabnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnriekGPNyegPxPEZT37v5v53ZNpkH9l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
